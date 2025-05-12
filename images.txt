@@ -1,8 +1,10 @@
+#支持私库
+elasticsearch:8.11.3
+hub.icert.top/opensearchproject/opensearch:2.19.1
+infiniflow/infinity:v0.6.0-dev3
+mysql:8.0.39
+quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
+valkey/valkey:8
 infiniflow/ragflow:v0.18.0
-#infiniflow/infinity:v0.6.0-dev3
-#elasticsearch:8.11.3
-#mysql:8.0.39
-#postgres:13
-#redis:6
-#valkey/valkey:8
-#minio/minio
+#支持指定架构
+--platform=linux/amd
